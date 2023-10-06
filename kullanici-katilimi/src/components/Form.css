@@ -1,0 +1,28 @@
+.inputClass {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+label {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  flex: 0.1;
+  font-size: 18px;
+}
+
+input {
+  border: solid 2px #9eece6;
+  border-radius: 5px;
+  padding: 6px;
+}
+
+.error {
+  justify-content: center;
+  align-items: center;
+  color: red;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  padding: 5px;
+  
+ 
+}
